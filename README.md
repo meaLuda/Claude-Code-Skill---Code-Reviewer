@@ -8,9 +8,7 @@ Unlike basic review tools, this skill follows a **7-step workflow** that maps yo
 
 ## What It Does
 
-```
-Research & Context → Architecture Map → Issue Identification → Verify & Score → Report → Approval → Fix
-```
+![Workflow](assets/workflow.svg)
 
 **Step 1 — Research:** Identifies your stack, checks framework versions, reads project-specific rules (`REVIEW.md`, linter configs).
 
@@ -160,7 +158,7 @@ MIT
 
 Tools built for developers, by developers:
 
-- [ThunderHooks](https://thunderhooks.com) — Webhook testing, monitoring & status pages.
-  Replaces ngrok, UptimeRobot, Hookdeck, and more in one tool.
 - [LightningPDF](https://lightningpdf.dev) — HTML/CSS/Markdown to PDF via REST API.
   Under 100ms. Free tier available.
+- [ThunderHooks](https://thunderhooks.com) — Webhook testing, monitoring & status pages.
+  Replaces ngrok, UptimeRobot, Hookdeck, and more in one tool.
